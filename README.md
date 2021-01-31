@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
 
 <a href="https://twitter.com/SWayWasTaken" target="_blank">
   <img align="left" alt="Massimiliano's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -6,6 +6,8 @@
 <a href="mailto:massimiliano.sartore@protonmail.com" target="_blank">
   <img align="left" alt="Massimiliano's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/protonmail.svg" />
 </a>
+
+<br/>
 
 ### Glad to see you here! 🤩
 <p>
