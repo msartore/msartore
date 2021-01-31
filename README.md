@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
 
 <a href="https://twitter.com/SWayWasTaken" target="_blank">
   <img align="left" alt="Massimiliano's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -11,7 +11,7 @@
 
 ### Glad to see you here! 🤩
 <p>
-  <i>I'm <b>Massimiliano Sartore</b>
+  I'm <b>Massimiliano Sartore</b>
   I love to explore new technologies and leverage them to solve real-life problems ✨. I'm a passionate learner who's always willing to learn and work across technologies and domains.
 </p>
 
