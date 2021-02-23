@@ -14,7 +14,7 @@
   I'm <b>Massimiliano Sartore</b>, a tech enthusiast who loves to learn about new technologies and leverage them to solve real-life problems ✨. I'm a passionate learner who's always willing to learn and work across technologies and domains.
 </p>
 
-- 🔭 I’m currently working on: **Nothing, just trying to improve myself.**
+- 🔭 I’m currently working on: [**ATA GUI**](https://github.com/MassimilianoSartore/ATA-GUI)
 - 🌱 Currently learning [**Javascript**](https://www.javascript.com/) ✨
 - 👯 Looking to collaborate on new project ideas 
 - 💬 Ask me about: **Check out below to ask things related to whatever I know.**
