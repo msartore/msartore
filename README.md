@@ -15,7 +15,7 @@
 </p>
 
 - 🔭 I’m currently working on: [**ATA GUI**](https://github.com/MassimilianoSartore/ATA-GUI)
-- 🌱 Currently learning [**Javascript**](https://www.javascript.com/) ✨
+- 🌱 Currently learning [**Kotlin**](https://kotlinlang.org/) ✨
 - 👯 Looking to collaborate on new project ideas 
 - 💬 Ask me about: **Check out below to ask things related to whatever I know.**
 - 📫 How to reach me: **Just use any of the platforms above**
@@ -33,6 +33,7 @@
 <img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/python.svg">
 <img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg">
 <img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gnubash.svg">
+<img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/kotlin.svg">
 </p>
  
 ![Github stats](https://github-readme-stats.vercel.app/api?username=MassimilianoSartore&show_icons=true&theme=white&include_all_commits=true&count_private=true)
