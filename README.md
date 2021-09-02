@@ -14,7 +14,7 @@
   I'm <b>Massimiliano Sartore</b>, a tech enthusiast who loves to learn about new technologies and leverage them to solve real-life problems ✨.
 </p>
 
-- 🔭 I’m currently working on: [**ATA GUI**](https://github.com/MassimilianoSartore/ATA-GUI)
+- 🔭 I’m currently working on: [**ATA GUI**](https://github.com/msartore/ATA-GUI)
 - 🌱 Currently learning [**Kotlin**](https://kotlinlang.org/) ✨
 - 👯 Looking to collaborate on new project ideas 
 - 💬 Ask me about: **Check out below to ask things related to whatever I know.**
@@ -36,5 +36,5 @@
 <img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/kotlin.svg">
 </p>
  
-![Github stats](https://github-readme-stats.vercel.app/api?username=MassimilianoSartore&show_icons=true&theme=white&include_all_commits=true&count_private=true)
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MassimilianoSartore&layout=compact&theme=white)
+![Github stats](https://github-readme-stats.vercel.app/api?username=msartore&show_icons=true&theme=white&include_all_commits=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=msartore&layout=compact&theme=white)
