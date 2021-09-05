@@ -15,7 +15,7 @@
 </p>
 
 - 🔭 I’m currently working on: [**ATA GUI**](https://github.com/msartore/ATA-GUI)
-- 🌱 Currently learning [**Kotlin**](https://kotlinlang.org/) ✨
+- 🌱 Currently learning [**Jetpack Compose**](https://developer.android.com/jetpack/compose) ✨
 - 👯 Looking to collaborate on new project ideas 
 - 💬 Ask me about: **Check out below to ask things related to whatever I know.**
 - 📫 How to reach me: **Just use any of the platforms above**
