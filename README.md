@@ -14,8 +14,8 @@
   I'm <b>Massimiliano Sartore</b>, a tech enthusiast who loves to learn about new technologies and leverage them to solve real-life problems ✨.
 </p>
 
-- 🔭 I’m currently working on: [**Personal Webpage**](https://github.com/msartore/www)
-- 🌱 Currently learning [**x86_64 NASM Assembly**](https://en.wikipedia.org/wiki/Netwide_Assembler) ✨
+- 🔭 I’m currently working on: [**Material Gallery**](https://github.com/msartore/Material-Gallery)
+- 🌱 Currently learning [**Kotlin Native**](https://kotlinlang.org/docs/native-overview.html) ✨
 - 👯 Looking to collaborate on new project ideas 
 - 💬 Ask me about: **Check out below to ask things related to whatever I know.**
 - 📫 How to reach me: **Just use any of the platforms above**
