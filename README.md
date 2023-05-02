@@ -16,7 +16,7 @@
 <p>I'm <b>Massimiliano Sartore</b>, a tech enthusiast who loves to learn about new technologies and leverage them to solve real-life problems.</p>
 
 - 🔭 I’m currently working on: [**Ares**](https://ares.msartore.dev/)
-- 🌱 Currently learning [**My SQL**](https://www.oracle.com/mysql/what-is-mysql/) ✨
+- 🌱 Currently learning [**PostgreSQL**](https://www.postgresql.org/about/) ✨
 - 👯 Looking to collaborate on new project ideas 
 - 💬 Ask me about: **Check out below to ask things related to whatever I know.**
 - 📫 How to reach me: **Just use any of the platforms above**
@@ -32,7 +32,7 @@
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
   <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
   <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
 ### DevOps  
