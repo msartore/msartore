@@ -45,5 +45,7 @@
 
 ### Stats
  
-![Github stats](https://github-readme-stats.vercel.app/api?username=msartore&show_icons=true&theme=white&include_all_commits=true&count_private=true)
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=msartore&layout=compact&theme=white)
+<a href="https://github.com/msartore/github-stats">
+<img src="https://github.com/msartore/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/msartore/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
